@@ -1,0 +1,20 @@
+[project]
+name = "langchain-academy-courses"
+version = "0.1.0"
+description = "LangChain Academy courses and tutorials"
+requires-python = ">=3.13"
+dependencies = [
+    "langgraph",
+    "langgraph-prebuilt",
+    "langgraph-sdk",
+    "langgraph-checkpoint-sqlite",
+    "langsmith",
+    "langchain-community",
+    "langchain-core",
+    "langchain-openai",
+    "notebook",
+    "tavily-python",
+    "wikipedia",
+    "trustcall",
+    "langgraph-cli[inmem]",
+]
