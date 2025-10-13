@@ -51,3 +51,5 @@ graph = builder.compile()
 
 result = graph.invoke({"prompt": "What is your mood?"})
 print(result["answer"])
+
+# uv run langgraph dev

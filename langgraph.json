@@ -1,6 +1,7 @@
 {
   "graphs": {
-    "simple_graph": "./module_1/simple_graph.py:graph"
+    "simple_graph": "./module_1/simple_graph.py:graph",
+    "weather_graph": "./module_1/weather_graph.py:weather_graph"
   },
   "dependencies": [
     "."
