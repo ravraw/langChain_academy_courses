@@ -1,7 +1,8 @@
 {
   "graphs": {
     "simple_graph": "./module_1/simple_graph.py:graph",
-    "weather_graph": "./module_1/weather_graph.py:weather_graph"
+    "weather_graph": "./module_1/weather_graph.py:weather_graph",
+    "router_graph": "./module_1/router_graph.py:router_graph"
   },
   "dependencies": [
     "."
